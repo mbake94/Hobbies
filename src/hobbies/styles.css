@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+}
+h2 {
+    color: dimgrey;
+}
+h3 {
+    color: dimgrey;
+    text-align: center;
+}
+#instructions {
+    align-content: baseline;
+}
